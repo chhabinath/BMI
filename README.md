@@ -34,7 +34,10 @@ The calculated BMI value is then displayed along with a corresponding BMI catego
 
 ## Screenshots
 
-[Add screenshots of your application here if desired]
+![Screenshot 1](screenshots/Screenshot_1.jpg)
+![Screenshot 2](screenshots/Screenshot_2.jpg)
+![Screenshot 3](screenshots/Screenshot_3.jpg)
+![Screenshot 4](screenshots/Screenshot_4.jpg)
 
 ## Contributing
 
